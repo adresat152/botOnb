@@ -1,0 +1,2616 @@
+{
+    "categories": [
+        {
+            "id": "cb93eacc-ea91-4259-915c-548e1675ff05",
+            "images": [],
+            "name": "На тарелке",
+            "parentId": "",
+            "sortOrder": 0
+        },
+        {
+            "id": "bea4de33-be22-496e-9234-d52549f7e703",
+            "images": [],
+            "name": "В пите",
+            "parentId": "",
+            "sortOrder": 1
+        },
+        {
+            "id": "ffda0487-ce03-46b0-b3f2-b9c4a099c3d9",
+            "images": [],
+            "name": "В лаваше",
+            "parentId": "",
+            "sortOrder": 2
+        },
+        {
+            "id": "7ae9118f-9270-4944-a737-a469ea6bf8de",
+            "images": [],
+            "name": "Тортилья",
+            "parentId": "",
+            "sortOrder": 3
+        },
+        {
+            "id": "1a7d6135-d914-47d7-99c5-d0e2a0f14760",
+            "images": [],
+            "name": "Закуски и горячее",
+            "parentId": "",
+            "sortOrder": 4
+        },
+        {
+            "id": "b9a0b088-4e67-4e67-827a-789f6784bb6c",
+            "images": [],
+            "name": "Пиццы",
+            "parentId": "",
+            "sortOrder": 5
+        },
+        {
+            "id": "4fe27596-1085-492d-bb78-4272d50eb4ca",
+            "images": [],
+            "name": "Сеты",
+            "parentId": "",
+            "sortOrder": 6
+        },
+        {
+            "id": "5b407e3e-7c39-4188-9e30-06b82cc4ba72",
+            "images": [],
+            "name": "Классические роллы",
+            "parentId": "",
+            "sortOrder": 7
+        },
+        {
+            "id": "93abff69-8a64-4791-9d94-201379f536a2",
+            "images": [],
+            "name": "Запеченные роллы",
+            "parentId": "",
+            "sortOrder": 8
+        },
+        {
+            "id": "3c07542c-e733-4914-88f3-4f5dfe0bc481",
+            "images": [],
+            "name": "Темпура",
+            "parentId": "",
+            "sortOrder": 9
+        },
+        {
+            "id": "d8dda900-5dae-4501-ab6d-d8133b3f473f",
+            "images": [],
+            "name": "Мини",
+            "parentId": "",
+            "sortOrder": 10
+        },
+        {
+            "id": "dce6e77f-c7c8-46e6-af1b-b4a93acf0fae",
+            "images": [],
+            "name": "Поке",
+            "parentId": "",
+            "sortOrder": 11
+        },
+        {
+            "id": "bc03d971-acda-4799-ac0b-5e5f0e50b2e6",
+            "images": [],
+            "name": "Соусы",
+            "parentId": "",
+            "sortOrder": 12
+        },
+        {
+            "id": "7b8daee6-9ac2-46dc-b2ea-7eddb220d426",
+            "images": [],
+            "name": "Упаковка",
+            "parentId": "",
+            "sortOrder": 13
+        }
+    ],
+    "items": [
+        {
+            "categoryId": "cb93eacc-ea91-4259-915c-548e1675ff05",
+            "description": "Курица, картошка, квашеная капуста, огурцы свежие, огурцы соленые, помидоры, морковка по-корейски, красный лук, халапеньо, пита.",
+            "excise": null,
+            "id": "09137",
+            "images": [
+                {
+                    "hash": "ab99af081f845866acd696339c9c87665d00d22f",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/9c61f90d57adfadd849f76d6de40a21d.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 450,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Шаверма на тарелке",
+            "nutrients": null,
+            "price": 469,
+            "serviceCodesUz": null,
+            "sortOrder": 0,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "cb93eacc-ea91-4259-915c-548e1675ff05",
+            "description": "Фалафель, айсберг, огурцы свежие, огурцы соленые, красная капуста, халапеньо, соус тхиния.",
+            "excise": null,
+            "id": "09136",
+            "images": [
+                {
+                    "hash": "d7c750d09c1f24f833727622e2e6b5ae289e47e8",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/768711020643548fe5528a3b5f686e1a.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 350,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Фалафель на тарелке",
+            "nutrients": null,
+            "price": 339,
+            "serviceCodesUz": null,
+            "sortOrder": 1,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "bea4de33-be22-496e-9234-d52549f7e703",
+            "description": "Пита, фалафель, огурцы, помидоры, пекинская капуста, соус чесночный, соус тхиния.",
+            "excise": null,
+            "id": "09132",
+            "images": [
+                {
+                    "hash": "e2b1ab2723b75d361ddd58257033c848b68e5673",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/f3ce052d62118bd5f87465f8e6dd484a.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 300,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Фалафель в пите",
+            "nutrients": null,
+            "price": 249,
+            "serviceCodesUz": null,
+            "sortOrder": 0,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "bea4de33-be22-496e-9234-d52549f7e703",
+            "description": "Пита, курица, огурцы, помидоры, пекинская капуста, чесночный соус.",
+            "excise": null,
+            "id": "09133",
+            "images": [
+                {
+                    "hash": "5a064b0bbc6b6947bca96f636c52c0dca080fe0f",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/efad6268e9a77e6b1ad9b6ba611ccd6c.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 320,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Шаверма в пите",
+            "nutrients": null,
+            "price": 289,
+            "serviceCodesUz": null,
+            "sortOrder": 1,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "bea4de33-be22-496e-9234-d52549f7e703",
+            "description": "Пита, курица, капуста, китайская, огурцы, помидоры, морковь по-корейски, халапеньо, соус чесночный.",
+            "excise": null,
+            "id": "09134",
+            "images": [
+                {
+                    "hash": "b2b7a8a2fe4c9cddc6c36f8c60dd1a8351f4365c",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/97ca2c1957d9304b640d14f72b3c3847.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 320,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Шаверма в пите по-корейски",
+            "nutrients": null,
+            "price": 309,
+            "serviceCodesUz": null,
+            "sortOrder": 2,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "bea4de33-be22-496e-9234-d52549f7e703",
+            "description": "Пита, курица, картошка, капуста китайская, огурцы, помидоры, соус чесночный, соус сырный.",
+            "excise": null,
+            "id": "09135",
+            "images": [
+                {
+                    "hash": "be93ad678ba2779a2cc5e65f04e3040ee33a8091",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/a09a8616ed43aee27a2127f3e764ba70.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 320,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Шаверма в пите сырная",
+            "nutrients": null,
+            "price": 319,
+            "serviceCodesUz": null,
+            "sortOrder": 3,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "ffda0487-ce03-46b0-b3f2-b9c4a099c3d9",
+            "description": "",
+            "excise": null,
+            "id": "09124",
+            "images": [
+                {
+                    "hash": "7d962be41ac28f899b875f1fe9e85119c004a660",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/54e9de593d970df517f07051ccf7d19e.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 310,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Хот-Дог",
+            "nutrients": null,
+            "price": 259,
+            "serviceCodesUz": null,
+            "sortOrder": 0,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "ffda0487-ce03-46b0-b3f2-b9c4a099c3d9",
+            "description": "Лаваш, фалафель, огурцы, помидоры, пекинская капуста, соус чесночный, соус тхиния.",
+            "excise": null,
+            "id": "09123",
+            "images": [
+                {
+                    "hash": "e93ed4373b51ab41040d0f75b29e89b28195fc39",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/82f2cc7f421e2c68c30608006ee5a508.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 380,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Фалафель в лаваше",
+            "nutrients": null,
+            "price": 269,
+            "serviceCodesUz": null,
+            "sortOrder": 1,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "ffda0487-ce03-46b0-b3f2-b9c4a099c3d9",
+            "description": "Лаваш, курица, огурцы, помидоры, пекинская капуста, чесночный соус.",
+            "excise": null,
+            "id": "09126",
+            "images": [
+                {
+                    "hash": "a2f380a232320b7088677f2843092697dcee1ad3",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/b39e04dbfa74b501f305ed8a3d1c0fda.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 370,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Шаверма в лаваше",
+            "nutrients": null,
+            "price": 319,
+            "serviceCodesUz": null,
+            "sortOrder": 2,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "ffda0487-ce03-46b0-b3f2-b9c4a099c3d9",
+            "description": "Лаваш, курица, огурцы, помидоры, пекинская капуста, морковка по-корейски, халапеньо, чесночный соус.\n",
+            "excise": null,
+            "id": "09129",
+            "images": [
+                {
+                    "hash": "14fc375bba6ac7272f750d8839b55a632b053a96",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/c2b7569d04508257f766df5e3d777168.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 400,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Шаверма по-корейски",
+            "nutrients": null,
+            "price": 329,
+            "serviceCodesUz": null,
+            "sortOrder": 3,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "ffda0487-ce03-46b0-b3f2-b9c4a099c3d9",
+            "description": "Лаваш, курица, картошка, огурцы, помидоры, китайская капуста, соус чесночный, соус терияки, соус гриль, кунжут.",
+            "excise": null,
+            "id": "09131",
+            "images": [
+                {
+                    "hash": "87f2f75f31ae2d8cd139e2859d73d6e0b397f890",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/a575e11d5df4a0b2d6e198ca9fc3f046.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 430,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Шаверма Терияки",
+            "nutrients": null,
+            "price": 359,
+            "serviceCodesUz": null,
+            "sortOrder": 4,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "ffda0487-ce03-46b0-b3f2-b9c4a099c3d9",
+            "description": "Сырный лаваш, курица, картошка, огурцы, помидоры, пекинская капуста, чесночный соус, сырный соус.",
+            "excise": null,
+            "id": "09130",
+            "images": [
+                {
+                    "hash": "d8ad1b4974929f045df77545dc365a609a8e11d5",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/f8ba92362e1be234d6fb48e8fcdaa5c2.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 380,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Шаверма сырная",
+            "nutrients": null,
+            "price": 369,
+            "serviceCodesUz": null,
+            "sortOrder": 5,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "ffda0487-ce03-46b0-b3f2-b9c4a099c3d9",
+            "description": "Лаваш, курица, шампиньоны, картошка, помидоры, китайская капуста, соус чесночный.",
+            "excise": null,
+            "id": "09127",
+            "images": [
+                {
+                    "hash": "b5bbd3a39586b363f2e5f7272f6baac51c81cd15",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/87358cb54b272673fc1935f03403a56b.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 510,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Шаверма Грибная",
+            "nutrients": null,
+            "price": 409,
+            "serviceCodesUz": null,
+            "sortOrder": 6,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "ffda0487-ce03-46b0-b3f2-b9c4a099c3d9",
+            "description": "Зеленый лаваш, курица, айсберг, соус манго.",
+            "excise": null,
+            "id": "09125",
+            "images": [
+                {
+                    "hash": "023e99e85f5c00d5944ee44f0115f385f35abc5c",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/a3242a96a5c7a3d655c01ad8191651f4.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 350,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Шаверма ZelenMelen",
+            "nutrients": null,
+            "price": 419,
+            "serviceCodesUz": null,
+            "sortOrder": 7,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "ffda0487-ce03-46b0-b3f2-b9c4a099c3d9",
+            "description": "Лаваш, курица, картошка, капуста китайская, огурцы, помидоры, лук фри, соус чесночный, соус гриль.",
+            "excise": null,
+            "id": "09128",
+            "images": [
+                {
+                    "hash": "3641c5f96f1491c72a931c5572f73f3906e7c534",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/ebd9c4656eae676365043c07805b5ef7.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 470,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Шаверма Гриль",
+            "nutrients": null,
+            "price": 419,
+            "serviceCodesUz": null,
+            "sortOrder": 8,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "7ae9118f-9270-4944-a737-a469ea6bf8de",
+            "description": "Тортилья, говядина, капуста китайская, огурцы, помидоры, соус чесночный, соус барбекю, соус гриль.",
+            "excise": null,
+            "id": "09122",
+            "images": [
+                {
+                    "hash": "a03f99bd4e0ce8eedb836fe728bdca286b6d8c41",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/85e367bdd5682ae8a668a8234c80fb67.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 340,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Тортилья Арабская",
+            "nutrients": null,
+            "price": 489,
+            "serviceCodesUz": null,
+            "sortOrder": 0,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "7ae9118f-9270-4944-a737-a469ea6bf8de",
+            "description": "Тортилья, говядина, капуста китайская, халапеньо, моцарелла, соус чили, соус барбекю.",
+            "excise": null,
+            "id": "09121",
+            "images": [
+                {
+                    "hash": "8d49f14a28c70a8de9020b3cf266508b15344f27",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/9360570d2b044919d8c197b5fd9678a6.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 320,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Тортилья Sweet Meat",
+            "nutrients": null,
+            "price": 489,
+            "serviceCodesUz": null,
+            "sortOrder": 1,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "1a7d6135-d914-47d7-99c5-d0e2a0f14760",
+            "description": "",
+            "excise": null,
+            "id": "09067",
+            "images": [
+                {
+                    "hash": "9b1b16fd66d43c235a189acc42bef4fd111e435f",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/74e9afc62b90f880af00621e03043b4d.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 120,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Картофель фри",
+            "nutrients": null,
+            "price": 219,
+            "serviceCodesUz": null,
+            "sortOrder": 0,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "1a7d6135-d914-47d7-99c5-d0e2a0f14760",
+            "description": "Курица, картофель фри, чесночный соус, кинза.",
+            "excise": null,
+            "id": "09064",
+            "images": [
+                {
+                    "hash": "143e70b2ed90ce2a9a01249f49ae49daf9a0910b",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/7d0d43f73076948ed39a1306116444f8.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 300,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Курица на картошке",
+            "nutrients": null,
+            "price": 449,
+            "serviceCodesUz": null,
+            "sortOrder": 1,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "1a7d6135-d914-47d7-99c5-d0e2a0f14760",
+            "description": "Курица, рис, чесночный соус, кинза.",
+            "excise": null,
+            "id": "09065",
+            "images": [
+                {
+                    "hash": "0e90adabb944dbb6f9601134c65e7aae35d40136",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/663aeb14515446a7a6b0ff1189addd98.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 300,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Курица на рисе",
+            "nutrients": null,
+            "price": 449,
+            "serviceCodesUz": null,
+            "sortOrder": 2,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "1a7d6135-d914-47d7-99c5-d0e2a0f14760",
+            "description": "Креветки, кляр, соус сладкий чили (5шт.)",
+            "excise": null,
+            "id": "09063",
+            "images": [
+                {
+                    "hash": "23f032353943ef2d1e262f655066ded4f4dcae56",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/2dd554c696998aacec3c51632b55969d.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 110,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Креветки в темпуре",
+            "nutrients": null,
+            "price": 469,
+            "serviceCodesUz": null,
+            "sortOrder": 3,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "1a7d6135-d914-47d7-99c5-d0e2a0f14760",
+            "description": "Запеченные мидии под спайси-соусом (5шт.)",
+            "excise": null,
+            "id": "09061",
+            "images": [
+                {
+                    "hash": "194f2837cd8e7d8b2bbba0f7182d28a1ddcd0110",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/4b330d34ba7a2bc9fe0b1292f23c1c16.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 140,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Игой Яки спайси",
+            "nutrients": null,
+            "price": 609,
+            "serviceCodesUz": null,
+            "sortOrder": 4,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "1a7d6135-d914-47d7-99c5-d0e2a0f14760",
+            "description": "Запеченные мидии под сырным соусом (5шт.)",
+            "excise": null,
+            "id": "09062",
+            "images": [
+                {
+                    "hash": "d192ef9cabc6b8a88bada209f996e9cefc5d011c",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/3e12c448c485e67c428b96982db88852.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 140,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Игой Яки сырный",
+            "nutrients": null,
+            "price": 609,
+            "serviceCodesUz": null,
+            "sortOrder": 5,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "b9a0b088-4e67-4e67-827a-789f6784bb6c",
+            "description": "Томатный соус, моцарелла.",
+            "excise": null,
+            "id": "09075",
+            "images": [
+                {
+                    "hash": "e7e05e4eb426fad3810201c731ae875aaf78d168",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/9b2e16512b74dc561ffb176e42b01506.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 370,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Маргарита",
+            "nutrients": null,
+            "price": 499,
+            "serviceCodesUz": null,
+            "sortOrder": 0,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "b9a0b088-4e67-4e67-827a-789f6784bb6c",
+            "description": "Соус ранч, моцарелла, ветчина, цыпленок, помидоры, соус цезарь.",
+            "excise": null,
+            "id": "09077",
+            "images": [
+                {
+                    "hash": "fd70a2b1701a733a731cbf90fd61f11c6627aed9",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/ce09ff0e865102e97942da78a85f78c8.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 400,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Цыпленок цезарь",
+            "nutrients": null,
+            "price": 659,
+            "serviceCodesUz": null,
+            "sortOrder": 1,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "b9a0b088-4e67-4e67-827a-789f6784bb6c",
+            "description": "Томатный соус, моцарелла, пепперони.",
+            "excise": null,
+            "id": "09071",
+            "images": [
+                {
+                    "hash": "6075072b2ccb833d369406557be68f04e236a259",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/cd213a2a82656175cf8c14b24074f523.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 350,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Двойная пепперони",
+            "nutrients": null,
+            "price": 699,
+            "serviceCodesUz": null,
+            "sortOrder": 2,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "b9a0b088-4e67-4e67-827a-789f6784bb6c",
+            "description": "Томатный соус, моцарелла, цыпленок, шампиньоны, сливки, сыр чеддер.",
+            "excise": null,
+            "id": "09072",
+            "images": [
+                {
+                    "hash": "f4ab7c2a3c221d1c2dc9fa5a4b8eac3ccc0f6e75",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/426b0b19ed69167bc12f6ed3046cf4dd.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 400,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Жюльен",
+            "nutrients": null,
+            "price": 699,
+            "serviceCodesUz": null,
+            "sortOrder": 3,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "b9a0b088-4e67-4e67-827a-789f6784bb6c",
+            "description": "Томатный соус, моцарелла, охотничьи колбаски, бекон, ветчина, пепперони.",
+            "excise": null,
+            "id": "09069",
+            "images": [
+                {
+                    "hash": "9231442b483ddf2ac6d52bad3be960e0dc36a7c8",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/a1ab6049f40dcb73e8594060a57c299f.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 400,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "4 сезона",
+            "nutrients": null,
+            "price": 699,
+            "serviceCodesUz": null,
+            "sortOrder": 4,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "b9a0b088-4e67-4e67-827a-789f6784bb6c",
+            "description": "Соус ранч, моцарелла, бекон.",
+            "excise": null,
+            "id": "09073",
+            "images": [
+                {
+                    "hash": "2332baf08a9214e84d56c2693351f40d73c66bb2",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/9db35967382fe20df54bdebeaedfc3bd.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 350,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Карбонара",
+            "nutrients": null,
+            "price": 699,
+            "serviceCodesUz": null,
+            "sortOrder": 5,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "b9a0b088-4e67-4e67-827a-789f6784bb6c",
+            "description": "Соус ранч, моцарелла, цыпленок, помидоры, огурцы, кетчуп, чесночный соус.",
+            "excise": null,
+            "id": "09078",
+            "images": [
+                {
+                    "hash": "59310829f6b8e61e5f15edd770172fdcb08c02fc",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/bb84ecbebc4a7891302ec590363345ba.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 400,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Шаверма",
+            "nutrients": null,
+            "price": 699,
+            "serviceCodesUz": null,
+            "sortOrder": 6,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "b9a0b088-4e67-4e67-827a-789f6784bb6c",
+            "description": "Томатный соус, моцарелла, дор блю, чеддер, пармезан.",
+            "excise": null,
+            "id": "09070",
+            "images": [
+                {
+                    "hash": "6051354a2ab91a3c9aa3cf58e0d488221ac1ce4d",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/d91d42fb2b5a3d7e02f0e7cbe9a17f88.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 350,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "4 сыра",
+            "nutrients": null,
+            "price": 749,
+            "serviceCodesUz": null,
+            "sortOrder": 7,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "b9a0b088-4e67-4e67-827a-789f6784bb6c",
+            "description": "Томатный соус, моцарелла, ветчина, бекон, охотничьи колбаски, свинина, красный лук, укроп.",
+            "excise": null,
+            "id": "09076",
+            "images": [
+                {
+                    "hash": "9fff192f1346890b0d5c46cd7ab9cf4b16c8d1b1",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/3c6679457deda000488b4f3305ea0a0a.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 400,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Папа может",
+            "nutrients": null,
+            "price": 779,
+            "serviceCodesUz": null,
+            "sortOrder": 8,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "4fe27596-1085-492d-bb78-4272d50eb4ca",
+            "description": "5 запеченных мини роллов с угрем, креветкой, цыпленком, лососем и снежным крабом.",
+            "excise": null,
+            "id": "09684",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 742,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Токио",
+            "nutrients": null,
+            "price": 1439,
+            "serviceCodesUz": null,
+            "sortOrder": 0,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "4fe27596-1085-492d-bb78-4272d50eb4ca",
+            "description": "Филадельфия,  ½ запеченная креветка, ½ запеченный угорь, ½ запеченный краб.",
+            "excise": null,
+            "id": "09676",
+            "images": [
+                {
+                    "hash": "b2a3d73a83547cfc67d684ba54d3c6aba5ec95e4",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/d17ceb7cf1e2e584f490571f5dab1bb6.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 676,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Нагано",
+            "nutrients": null,
+            "price": 1559,
+            "serviceCodesUz": null,
+            "sortOrder": 1,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "4fe27596-1085-492d-bb78-4272d50eb4ca",
+            "description": "½ запеченный лосось, ½ запеченный с мидиями, ½ запеченная креветка, ½ запеченный угорь, ½ запеченный краб, ½ запеченный чикен.",
+            "excise": null,
+            "id": "09677",
+            "images": [
+                {
+                    "hash": "71a725f4631bfa949931bf088f6e22545bb14636",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/0bc1946dea5c3f0bbacc5987041076c2.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 811,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Нара",
+            "nutrients": null,
+            "price": 1699,
+            "serviceCodesUz": null,
+            "sortOrder": 2,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "4fe27596-1085-492d-bb78-4272d50eb4ca",
+            "description": "Филадельфия, калифорния, горячий краб.",
+            "excise": null,
+            "id": "09679-Половина сета",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 814,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Осака Половина",
+            "nutrients": null,
+            "price": 1049,
+            "serviceCodesUz": null,
+            "sortOrder": 3,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "4fe27596-1085-492d-bb78-4272d50eb4ca",
+            "description": "Филадельфия, калифорния, горячий краб.",
+            "excise": null,
+            "id": "09679-Целый сет",
+            "images": [
+                {
+                    "hash": "81a6247ef7eafb58a8e99e2342ba2d88a80b569a",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/a5fc1937e8873b7bed55ea7d3374150f.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 814,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Осака Целый",
+            "nutrients": null,
+            "price": 1749,
+            "serviceCodesUz": null,
+            "sortOrder": 3,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "4fe27596-1085-492d-bb78-4272d50eb4ca",
+            "description": "Вулкан, Шогун, Рио.",
+            "excise": null,
+            "id": "09673-Половина сета",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 827,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Канадзава Половина",
+            "nutrients": null,
+            "price": 999,
+            "serviceCodesUz": null,
+            "sortOrder": 4,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "4fe27596-1085-492d-bb78-4272d50eb4ca",
+            "description": "Вулкан, Шогун, Рио.",
+            "excise": null,
+            "id": "09673-Целый сет",
+            "images": [
+                {
+                    "hash": "542f5407d63ec5f3367a886bda4d5c2d032bd41e",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/fa35d055f003e3fb8fda773f009d9ae8.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 827,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Канадзава Целый",
+            "nutrients": null,
+            "price": 1749,
+            "serviceCodesUz": null,
+            "sortOrder": 4,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "4fe27596-1085-492d-bb78-4272d50eb4ca",
+            "description": "Мали, сливочная калифорния, острый лосось с авокадо.",
+            "excise": null,
+            "id": "09678-Половина сета",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 738,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Никко Половина",
+            "nutrients": null,
+            "price": 1119,
+            "serviceCodesUz": null,
+            "sortOrder": 5,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "4fe27596-1085-492d-bb78-4272d50eb4ca",
+            "description": "Мали, сливочная калифорния, острый лосось с авокадо.",
+            "excise": null,
+            "id": "09678-Целый сет",
+            "images": [
+                {
+                    "hash": "1ccbfe4c912a15394c5a7ca8d5aac1b70b97ebdb",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/36ea4eeba243d095d60f1c2e1c4d025f.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 738,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Никко Целый",
+            "nutrients": null,
+            "price": 1869,
+            "serviceCodesUz": null,
+            "sortOrder": 5,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "4fe27596-1085-492d-bb78-4272d50eb4ca",
+            "description": "Горячий краб, Рио, филадельфия манго.",
+            "excise": null,
+            "id": "09674-Половина сета",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 886,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Киото Половина",
+            "nutrients": null,
+            "price": 1119,
+            "serviceCodesUz": null,
+            "sortOrder": 6,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "4fe27596-1085-492d-bb78-4272d50eb4ca",
+            "description": "Горячий краб, Рио, филадельфия манго.",
+            "excise": null,
+            "id": "09674-Целый сет",
+            "images": [
+                {
+                    "hash": "52e9a6c1ccea83a7074dae04d464d047bb937f56",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/0fc28024df1ecae1ca7d050973abd0ad.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 886,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Киото Целый",
+            "nutrients": null,
+            "price": 1879,
+            "serviceCodesUz": null,
+            "sortOrder": 6,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "4fe27596-1085-492d-bb78-4272d50eb4ca",
+            "description": "Сальмон, филадельфия, запеченный мини ролл с креветкой, запеченный мини ролл с крабом.",
+            "excise": null,
+            "id": "09675",
+            "images": [
+                {
+                    "hash": "4cb3b3302faf41e529dfad7fd1f06421d33dc99d",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/3ce7b3190950225b0385ae5911f9681f.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 776,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Кобэ",
+            "nutrients": null,
+            "price": 1999,
+            "serviceCodesUz": null,
+            "sortOrder": 7,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "4fe27596-1085-492d-bb78-4272d50eb4ca",
+            "description": "Кранч эби, Канада, Уно.",
+            "excise": null,
+            "id": "09683-Половина сета",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 803,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Такияма Половина",
+            "nutrients": null,
+            "price": 1209,
+            "serviceCodesUz": null,
+            "sortOrder": 8,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "4fe27596-1085-492d-bb78-4272d50eb4ca",
+            "description": "Кранч эби, Канада, Уно.",
+            "excise": null,
+            "id": "09683-Целый сет",
+            "images": [
+                {
+                    "hash": "8389f0c0016b50c2755fcf9ce35c1de8053f8023",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/c00a73170e3cf3e1e5f159580c8c114a.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 803,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Такияма Целый",
+            "nutrients": null,
+            "price": 2019,
+            "serviceCodesUz": null,
+            "sortOrder": 8,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "4fe27596-1085-492d-bb78-4272d50eb4ca",
+            "description": "Канада, кранч эби, кранч саке.",
+            "excise": null,
+            "id": "09680-Половина сета",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 738,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Сайтама Половина",
+            "nutrients": null,
+            "price": 1209,
+            "serviceCodesUz": null,
+            "sortOrder": 9,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "4fe27596-1085-492d-bb78-4272d50eb4ca",
+            "description": "Канада, кранч эби, кранч саке.",
+            "excise": null,
+            "id": "09680-Целый сет",
+            "images": [
+                {
+                    "hash": "6a3d885f4d69cc5217637cf2bbc950f97c0d501e",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/b676c84f4acb3884f710a707deebe6c8.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 738,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Сайтама Целый",
+            "nutrients": null,
+            "price": 2019,
+            "serviceCodesUz": null,
+            "sortOrder": 9,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "4fe27596-1085-492d-bb78-4272d50eb4ca",
+            "description": "Запеченная креветка, Еллоу, Канада.",
+            "excise": null,
+            "id": "09682-Половина сета",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 768,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Сендай Половина",
+            "nutrients": null,
+            "price": 1209,
+            "serviceCodesUz": null,
+            "sortOrder": 10,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "4fe27596-1085-492d-bb78-4272d50eb4ca",
+            "description": "Запеченная креветка, Еллоу, Канада.",
+            "excise": null,
+            "id": "09682-Целый сет",
+            "images": [
+                {
+                    "hash": "7ed0049943e32348fa442d19c4932cf1983bffa8",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/b86a9a2d9a7f03f1ebc0029ac00cf0d2.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 768,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Сендай Целый",
+            "nutrients": null,
+            "price": 2019,
+            "serviceCodesUz": null,
+            "sortOrder": 10,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "4fe27596-1085-492d-bb78-4272d50eb4ca",
+            "description": "Филадельфия, Мито, запеченный чикен, запеченный угорь.",
+            "excise": null,
+            "id": "09681-Половина сета",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 1072,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Саппоро Половина",
+            "nutrients": null,
+            "price": 1439,
+            "serviceCodesUz": null,
+            "sortOrder": 11,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "4fe27596-1085-492d-bb78-4272d50eb4ca",
+            "description": "Филадельфия, Мито, запеченный чикен, запеченный угорь.",
+            "excise": null,
+            "id": "09681-Целый сет",
+            "images": [
+                {
+                    "hash": "e6343f35e54d245d76e79ddee6040c09452435bf",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/7637a504d14484fcec319d1927a0123f.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 1072,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Саппоро Целый",
+            "nutrients": null,
+            "price": 2399,
+            "serviceCodesUz": null,
+            "sortOrder": 11,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "5b407e3e-7c39-4188-9e30-06b82cc4ba72",
+            "description": "Рис, нори, снежный краб, авокадо, огурец, масаго.",
+            "excise": null,
+            "id": "09635-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 225,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Калифорния 4 шт.",
+            "nutrients": null,
+            "price": 299,
+            "serviceCodesUz": null,
+            "sortOrder": 0,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "5b407e3e-7c39-4188-9e30-06b82cc4ba72",
+            "description": "Рис, нори, снежный краб, авокадо, огурец, масаго.",
+            "excise": null,
+            "id": "09635-8 шт.",
+            "images": [
+                {
+                    "hash": "ffa11a8bbb0edc17132ad4f0c682dd2c0e9e042b",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/0aafe72b5e37167f99f74192b3dd1ef2.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 225,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Калифорния 8 шт.",
+            "nutrients": null,
+            "price": 499,
+            "serviceCodesUz": null,
+            "sortOrder": 0,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "5b407e3e-7c39-4188-9e30-06b82cc4ba72",
+            "description": "Рис, нори, снежный краб, сливочный сыр, огурец, масаго.",
+            "excise": null,
+            "id": "09642-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 245,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Сливочная калифорния 4 шт.",
+            "nutrients": null,
+            "price": 319,
+            "serviceCodesUz": null,
+            "sortOrder": 1,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "5b407e3e-7c39-4188-9e30-06b82cc4ba72",
+            "description": "Рис, нори, снежный краб, сливочный сыр, огурец, масаго.",
+            "excise": null,
+            "id": "09642-8 шт.",
+            "images": [
+                {
+                    "hash": "2e0acf9cc6141bea6cc165cc3ff862782cce59de",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/22f3e3a561712c90a856b5b5d66a1d32.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 245,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Сливочная калифорния 8 шт.",
+            "nutrients": null,
+            "price": 549,
+            "serviceCodesUz": null,
+            "sortOrder": 1,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "5b407e3e-7c39-4188-9e30-06b82cc4ba72",
+            "description": "Рис, нори, лосось, авокадо, спайси соус.",
+            "excise": null,
+            "id": "09640-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 198,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Острый лосось с авокадо 4 шт.",
+            "nutrients": null,
+            "price": 359,
+            "serviceCodesUz": null,
+            "sortOrder": 2,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "5b407e3e-7c39-4188-9e30-06b82cc4ba72",
+            "description": "Рис, нори, лосось, авокадо, спайси соус.",
+            "excise": null,
+            "id": "09640-8 шт.",
+            "images": [
+                {
+                    "hash": "1749a94ed2853417fad88d1f6de27062344ee4ac",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/7c14f9a932ae3d90171644197cb3dd57.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 198,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Острый лосось с авокадо 8 шт.",
+            "nutrients": null,
+            "price": 599,
+            "serviceCodesUz": null,
+            "sortOrder": 2,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "5b407e3e-7c39-4188-9e30-06b82cc4ba72",
+            "description": "Рис, нори, лосось, снежный краб, сливочный сыр.",
+            "excise": null,
+            "id": "09641-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 216,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Сальмон 4 шт.",
+            "nutrients": null,
+            "price": 339,
+            "serviceCodesUz": null,
+            "sortOrder": 3,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "5b407e3e-7c39-4188-9e30-06b82cc4ba72",
+            "description": "Рис, нори, лосось, снежный краб, сливочный сыр.",
+            "excise": null,
+            "id": "09641-8 шт.",
+            "images": [
+                {
+                    "hash": "39ebd663f912500ccfe06d4f28bc4e09c2c9a18d",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/be6a236e268ce7b97230c8cd59241a60.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 216,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Сальмон 8 шт.",
+            "nutrients": null,
+            "price": 579,
+            "serviceCodesUz": null,
+            "sortOrder": 3,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "5b407e3e-7c39-4188-9e30-06b82cc4ba72",
+            "description": "Рис, нори, креветка, снежный краб, сливочный сыр, масаго.",
+            "excise": null,
+            "id": "09639-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 235,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Мито 4 шт.",
+            "nutrients": null,
+            "price": 349,
+            "serviceCodesUz": null,
+            "sortOrder": 4,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "5b407e3e-7c39-4188-9e30-06b82cc4ba72",
+            "description": "Рис, нори, креветка, снежный краб, сливочный сыр, масаго.",
+            "excise": null,
+            "id": "09639-8 шт.",
+            "images": [
+                {
+                    "hash": "cae159e9ec78f661dc49babf097e2b04719f9d24",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/21af1db7a5b3804a252ebd561c6c76f2.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 235,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Мито 8 шт.",
+            "nutrients": null,
+            "price": 589,
+            "serviceCodesUz": null,
+            "sortOrder": 4,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "5b407e3e-7c39-4188-9e30-06b82cc4ba72",
+            "description": "Рис, нори, лосось, сливочный сыр, огурец, масаго, соус терияки, соус гриль, жареный лук, кунжут.",
+            "excise": null,
+            "id": "09637-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 227,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Кранч саке 4 шт.",
+            "nutrients": null,
+            "price": 389,
+            "serviceCodesUz": null,
+            "sortOrder": 5,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "5b407e3e-7c39-4188-9e30-06b82cc4ba72",
+            "description": "Рис, нори, лосось, сливочный сыр, огурец, масаго, соус терияки, соус гриль, жареный лук, кунжут.",
+            "excise": null,
+            "id": "09637-8 шт.",
+            "images": [
+                {
+                    "hash": "0dcb366c5ca50417eb668e73d629531d92cfa041",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/7604eb002cc8ea10237c0612d9ad656d.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 227,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Кранч саке 8 шт.",
+            "nutrients": null,
+            "price": 649,
+            "serviceCodesUz": null,
+            "sortOrder": 5,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "5b407e3e-7c39-4188-9e30-06b82cc4ba72",
+            "description": "Рис, нори, креветка в темпуре, сливочный сыр, авокадо, масаго, соус гриль, кунжут, лук жареный.",
+            "excise": null,
+            "id": "09638-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 228,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Кранч эби 4 шт.",
+            "nutrients": null,
+            "price": 389,
+            "serviceCodesUz": null,
+            "sortOrder": 6,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "5b407e3e-7c39-4188-9e30-06b82cc4ba72",
+            "description": "Рис, нори, креветка в темпуре, сливочный сыр, авокадо, масаго, соус гриль, кунжут, лук жареный.",
+            "excise": null,
+            "id": "09638-8 шт.",
+            "images": [
+                {
+                    "hash": "c881a9752a65fa08858fb04f08c1b1b87cdfb7a1",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/d235d738d4fef3f83acd7fad8837ddbb.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 228,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Кранч эби 8 шт.",
+            "nutrients": null,
+            "price": 649,
+            "serviceCodesUz": null,
+            "sortOrder": 6,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "5b407e3e-7c39-4188-9e30-06b82cc4ba72",
+            "description": "Рис, нори, лосось, сливочный сыр, огурец.",
+            "excise": null,
+            "id": "09643-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 281,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Филадельфия 4 шт.",
+            "nutrients": null,
+            "price": 409,
+            "serviceCodesUz": null,
+            "sortOrder": 7,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "5b407e3e-7c39-4188-9e30-06b82cc4ba72",
+            "description": "Рис, нори, лосось, сливочный сыр, огурец.",
+            "excise": null,
+            "id": "09643-8 шт.",
+            "images": [
+                {
+                    "hash": "d39c05cc0e62f204077a34e1b30bf4889f98df27",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/3a8e6e444e77d2cd86a5f4ea0635c973.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 281,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Филадельфия 8 шт.",
+            "nutrients": null,
+            "price": 689,
+            "serviceCodesUz": null,
+            "sortOrder": 7,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "5b407e3e-7c39-4188-9e30-06b82cc4ba72",
+            "description": "Рис, нори, лосось, сливочный сыр, огурец, срайси соус, соус шрирача, кунжут.",
+            "excise": null,
+            "id": "09644-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 251,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Филадельфия спайси 4 шт.",
+            "nutrients": null,
+            "price": 419,
+            "serviceCodesUz": null,
+            "sortOrder": 8,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "5b407e3e-7c39-4188-9e30-06b82cc4ba72",
+            "description": "Рис, нори, лосось, сливочный сыр, огурец, срайси соус, соус шрирача, кунжут.",
+            "excise": null,
+            "id": "09644-8 шт.",
+            "images": [
+                {
+                    "hash": "421afd1d9bccfe4766b8c30d59e10e9f9f6c0343",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/4c8434f8f591dcac67f561d2d8451d10.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 251,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Филадельфия спайси 8 шт.",
+            "nutrients": null,
+            "price": 699,
+            "serviceCodesUz": null,
+            "sortOrder": 8,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "5b407e3e-7c39-4188-9e30-06b82cc4ba72",
+            "description": "Рис, нори, лосось, снежный краб, авокадо, манго соус, кунжут.",
+            "excise": null,
+            "id": "09634-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 266,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Еллоу 4 шт.",
+            "nutrients": null,
+            "price": 409,
+            "serviceCodesUz": null,
+            "sortOrder": 9,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "5b407e3e-7c39-4188-9e30-06b82cc4ba72",
+            "description": "Рис, нори, лосось, снежный краб, авокадо, манго соус, кунжут.",
+            "excise": null,
+            "id": "09634-8 шт.",
+            "images": [
+                {
+                    "hash": "7124cb3f8df9ba14a33a784e68950abb54248a14",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/d0e483689990959efabab4e02bf29d4c.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 266,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Еллоу 8 шт.",
+            "nutrients": null,
+            "price": 719,
+            "serviceCodesUz": null,
+            "sortOrder": 9,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "5b407e3e-7c39-4188-9e30-06b82cc4ba72",
+            "description": "Рис, нори, лосось, сливочный сыр, угорь, помидор, терияки соус, унаги соус, кунжут.",
+            "excise": null,
+            "id": "09636-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 282,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Канада 4 шт.",
+            "nutrients": null,
+            "price": 419,
+            "serviceCodesUz": null,
+            "sortOrder": 10,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "5b407e3e-7c39-4188-9e30-06b82cc4ba72",
+            "description": "Рис, нори, лосось, сливочный сыр, угорь, помидор, терияки соус, унаги соус, кунжут.",
+            "excise": null,
+            "id": "09636-8 шт.",
+            "images": [
+                {
+                    "hash": "c21a65802067639d1e19c032869c0863c33ea8dc",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/d14d7aa70b28733e6671c3af0aeb33c8.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 282,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Канада 8 шт.",
+            "nutrients": null,
+            "price": 739,
+            "serviceCodesUz": null,
+            "sortOrder": 10,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, цыпленок, сливочный сыр, томаго, терияки соус, сырный соус, кунжут. ",
+            "excise": null,
+            "id": "09653-4 шт.",
+            "images": [
+                {
+                    "hash": "103d1b97ef0f92ec5ce648332c6c50bbd9c23f01",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/7780e3e6b2216fa42781ed24383ed000.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 292,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Запеченный чикен 4 шт.",
+            "nutrients": null,
+            "price": 309,
+            "serviceCodesUz": null,
+            "sortOrder": 0,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, цыпленок, сливочный сыр, томаго, терияки соус, сырный соус, кунжут. ",
+            "excise": null,
+            "id": "09653-8 шт.",
+            "images": [
+                {
+                    "hash": "bb7f1df98d0b1053440cd3345abc205f1e02ad6f",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/79d1d330f34a5be08655124dfdf746da.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 292,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Запеченный чикен 8 шт.",
+            "nutrients": null,
+            "price": 509,
+            "serviceCodesUz": null,
+            "sortOrder": 0,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, сливочный сыр, огурец, томаго, цыпленок, спайси соус, унаги соус, кунжут. ",
+            "excise": null,
+            "id": "09656-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 252,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Шогун 4 шт.",
+            "nutrients": null,
+            "price": 539,
+            "serviceCodesUz": null,
+            "sortOrder": 1,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, сливочный сыр, огурец, томаго, цыпленок, спайси соус, унаги соус, кунжут. ",
+            "excise": null,
+            "id": "09656-8 шт.",
+            "images": [
+                {
+                    "hash": "4f49911a7b4bb3053d7c7f53c2c44128d634ebe2",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/53d3b550210a6321260b48da94497dc8.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 252,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Шогун 8 шт.",
+            "nutrients": null,
+            "price": 539,
+            "serviceCodesUz": null,
+            "sortOrder": 1,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, сливочный сыр, томаго, мидии, сырный соус, унаги соус, кунжут. ",
+            "excise": null,
+            "id": "09651-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 278,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Запеченный с мидиями 4 шт.",
+            "nutrients": null,
+            "price": 319,
+            "serviceCodesUz": null,
+            "sortOrder": 2,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, сливочный сыр, томаго, мидии, сырный соус, унаги соус, кунжут. ",
+            "excise": null,
+            "id": "09651-8 шт.",
+            "images": [
+                {
+                    "hash": "0bf4550892ae058cc84afadab5027a29b8a155dd",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/b0ffade99fa15094095f91ccb4913775.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 278,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Запеченный с мидиями 8 шт.",
+            "nutrients": null,
+            "price": 549,
+            "serviceCodesUz": null,
+            "sortOrder": 2,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, сливочный сыр, томаго, снежный краб, сырный соус, унаги соус, кунжут. ",
+            "excise": null,
+            "id": "09649-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 263,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Запеченный краб 4 шт.",
+            "nutrients": null,
+            "price": 339,
+            "serviceCodesUz": null,
+            "sortOrder": 3,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, сливочный сыр, томаго, снежный краб, сырный соус, унаги соус, кунжут. ",
+            "excise": null,
+            "id": "09649-8 шт.",
+            "images": [
+                {
+                    "hash": "833e7846dee70e8d3b029cbbd401f170455fda05",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/5f0eeed315c3b2f28c71a82f2701b265.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 263,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Запеченный краб 8 шт.",
+            "nutrients": null,
+            "price": 559,
+            "serviceCodesUz": null,
+            "sortOrder": 3,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, сливочный сыр, томаго, креветка, сырный соус, унаги соус, кунжут. ",
+            "excise": null,
+            "id": "09648-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 263,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Запеченная креветка 4 шт.",
+            "nutrients": null,
+            "price": 349,
+            "serviceCodesUz": null,
+            "sortOrder": 4,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, сливочный сыр, томаго, креветка, сырный соус, унаги соус, кунжут. ",
+            "excise": null,
+            "id": "09648-8 шт.",
+            "images": [
+                {
+                    "hash": "489ed5c4d75ff40890225720824f6c9e8ec8ad83",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/79a6f21e6fb5838cc7dec6b5c8bd0b6b.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 263,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Запеченная креветка 8 шт.",
+            "nutrients": null,
+            "price": 569,
+            "serviceCodesUz": null,
+            "sortOrder": 4,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, сливочный сыр, томаго, огурец, снежный краб, моцарелла, масаго, соус унаги, кунжут. ",
+            "excise": null,
+            "id": "09646-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 307,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Горячий краб 4 шт.",
+            "nutrients": null,
+            "price": 349,
+            "serviceCodesUz": null,
+            "sortOrder": 5,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, сливочный сыр, томаго, огурец, снежный краб, моцарелла, масаго, соус унаги, кунжут. ",
+            "excise": null,
+            "id": "09646-8 шт.",
+            "images": [
+                {
+                    "hash": "4fdf60853abb32f00a831ef67bf86c0fd2bec562",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/710b8346cf82bddabd53acdbbab6bfde.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 307,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Горячий краб 8 шт.",
+            "nutrients": null,
+            "price": 589,
+            "serviceCodesUz": null,
+            "sortOrder": 5,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, сливочный сыр, томаго, лосось, сырный соус, унаги соус, кунжут. ",
+            "excise": null,
+            "id": "09650-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 263,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Запеченный лосось 4 шт.",
+            "nutrients": null,
+            "price": 359,
+            "serviceCodesUz": null,
+            "sortOrder": 6,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, сливочный сыр, томаго, лосось, сырный соус, унаги соус, кунжут. ",
+            "excise": null,
+            "id": "09650-8 шт.",
+            "images": [
+                {
+                    "hash": "f827bce007432255341d7850ffde431db4f82c5f",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/c4b0f3d28cc877c33a70bdd06f810bfb.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 263,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Запеченный лосось 8 шт.",
+            "nutrients": null,
+            "price": 599,
+            "serviceCodesUz": null,
+            "sortOrder": 6,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, креветка, сливочный сыр, огурец, снежный краб, спайси соус, масаго, унаги соус, кунжут.",
+            "excise": null,
+            "id": "09645-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 287,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Вулкан 4 шт.",
+            "nutrients": null,
+            "price": 369,
+            "serviceCodesUz": null,
+            "sortOrder": 7,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, креветка, сливочный сыр, огурец, снежный краб, спайси соус, масаго, унаги соус, кунжут.",
+            "excise": null,
+            "id": "09645-8 шт.",
+            "images": [
+                {
+                    "hash": "71e2134fa8df453445b9813ee790286e26519ee6",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/e926c4ad27c200970ab8e8f41f1e7fbd.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 287,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Вулкан 8 шт.",
+            "nutrients": null,
+            "price": 619,
+            "serviceCodesUz": null,
+            "sortOrder": 7,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, сливочный сыр, огурец, креветка, лосось, спайси соус, унаги соус, кунжут. ",
+            "excise": null,
+            "id": "09654-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 287,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Рио 4 шт.",
+            "nutrients": null,
+            "price": 369,
+            "serviceCodesUz": null,
+            "sortOrder": 8,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, сливочный сыр, огурец, креветка, лосось, спайси соус, унаги соус, кунжут. ",
+            "excise": null,
+            "id": "09654-8 шт.",
+            "images": [
+                {
+                    "hash": "6d7aff3f9f03d27013015ba83309497f2e868c7b",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/2c0c750dc006ce7fae31aa00bc8fc4c1.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 287,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Рио 8 шт.",
+            "nutrients": null,
+            "price": 619,
+            "serviceCodesUz": null,
+            "sortOrder": 8,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, сливочный сыр, томаго, угорь, сырный соус, унаги соус, кунжут. ",
+            "excise": null,
+            "id": "09652-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 263,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Запеченный угорь 4 шт.",
+            "nutrients": null,
+            "price": 369,
+            "serviceCodesUz": null,
+            "sortOrder": 9,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, сливочный сыр, томаго, угорь, сырный соус, унаги соус, кунжут. ",
+            "excise": null,
+            "id": "09652-8 шт.",
+            "images": [
+                {
+                    "hash": "bceef5a6708abd58e41fbec5bc8daea0110a621e",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/a2b1ef8a27fe18ccfa88a7c200a9f9dd.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 263,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Запеченный угорь 8 шт.",
+            "nutrients": null,
+            "price": 619,
+            "serviceCodesUz": null,
+            "sortOrder": 9,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, сливочный сыр, томаго, огурец, лосось, моцарелла, сырный соус, масаго, соус унаги, кунжут. ",
+            "excise": null,
+            "id": "09647-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 307,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Горячий лосось 4 шт.",
+            "nutrients": null,
+            "price": 369,
+            "serviceCodesUz": null,
+            "sortOrder": 10,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, сливочный сыр, томаго, огурец, лосось, моцарелла, сырный соус, масаго, соус унаги, кунжут. ",
+            "excise": null,
+            "id": "09647-8 шт.",
+            "images": [
+                {
+                    "hash": "dd3dc202bfd2e7f1db2f5743c300256cf76e90af",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/86c6faab3b8edda88b5c25c6ff7f1aff.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 307,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Горячий лосось 8 шт.",
+            "nutrients": null,
+            "price": 619,
+            "serviceCodesUz": null,
+            "sortOrder": 10,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, сливочный сыр, огурец, томаго, лосось, угорь, спайси соус, унаги соус, кунжут. ",
+            "excise": null,
+            "id": "09655-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 292,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Уно 4 шт.",
+            "nutrients": null,
+            "price": 389,
+            "serviceCodesUz": null,
+            "sortOrder": 11,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, сливочный сыр, огурец, томаго, лосось, угорь, спайси соус, унаги соус, кунжут. ",
+            "excise": null,
+            "id": "09655-8 шт.",
+            "images": [
+                {
+                    "hash": "f785a20dfe92f1bb3293bf4227fc7b7a14ca835b",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/b6a8840698faec3c6223ba896e6acfc4.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 292,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Уно 8 шт.",
+            "nutrients": null,
+            "price": 649,
+            "serviceCodesUz": null,
+            "sortOrder": 11,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, лосось, сливочный сыр, огурец, манго соус.",
+            "excise": null,
+            "id": "09670-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 291,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Филадельфия манго 4 шт.",
+            "nutrients": null,
+            "price": 419,
+            "serviceCodesUz": null,
+            "sortOrder": 12,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, лосось, сливочный сыр, огурец, манго соус.",
+            "excise": null,
+            "id": "09670-8 шт.",
+            "images": [
+                {
+                    "hash": "c986be64f43b7f004781ac627191fc3f7f144f6e",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/c99ad41a246bdb530715c6bbe98e0e03.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 291,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Филадельфия манго 8 шт.",
+            "nutrients": null,
+            "price": 699,
+            "serviceCodesUz": null,
+            "sortOrder": 12,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, креветка в темпуре, лосось, сливочный сыр, огурец, масаго, манго соус, кунжут. ",
+            "excise": null,
+            "id": "09669-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 294,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Мали 4 шт.",
+            "nutrients": null,
+            "price": 449,
+            "serviceCodesUz": null,
+            "sortOrder": 13,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "93abff69-8a64-4791-9d94-201379f536a2",
+            "description": "Рис, нори, креветка в темпуре, лосось, сливочный сыр, огурец, масаго, манго соус, кунжут. ",
+            "excise": null,
+            "id": "09669-8 шт.",
+            "images": [
+                {
+                    "hash": "f41236ccf0ec0df4ebfb6b26484fcd4ae55048ec",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/a69af461249d52b7ad7ac562363349bc.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 294,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Мали 8 шт.",
+            "nutrients": null,
+            "price": 739,
+            "serviceCodesUz": null,
+            "sortOrder": 13,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "3c07542c-e733-4914-88f3-4f5dfe0bc481",
+            "description": "Рис, нори, креветка, сливочный сыр, авокадо, кляр, масаго, чука, ореховый соус, кунжут.",
+            "excise": null,
+            "id": "09672-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 268,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Ролл Креветка в темпуре 4 шт.",
+            "nutrients": null,
+            "price": 339,
+            "serviceCodesUz": null,
+            "sortOrder": 0,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "3c07542c-e733-4914-88f3-4f5dfe0bc481",
+            "description": "Рис, нори, креветка, сливочный сыр, авокадо, кляр, масаго, чука, ореховый соус, кунжут.",
+            "excise": null,
+            "id": "09672-8 шт.",
+            "images": [
+                {
+                    "hash": "5dbaa8296d2e0aae8473d245b0aa4a98ffe32fba",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/2307369a55c9674a0edaf099bffc31e6.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 268,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Ролл Креветка в темпуре 8 шт.",
+            "nutrients": null,
+            "price": 559,
+            "serviceCodesUz": null,
+            "sortOrder": 0,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "3c07542c-e733-4914-88f3-4f5dfe0bc481",
+            "description": "Рис, нори, лосось, сливочный сыр, авокадо, кляр, масаго, манго соус. ",
+            "excise": null,
+            "id": "09671-4 шт.",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 241,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Лосось в темпуре с соусом манго 4 шт.",
+            "nutrients": null,
+            "price": 349,
+            "serviceCodesUz": null,
+            "sortOrder": 1,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "3c07542c-e733-4914-88f3-4f5dfe0bc481",
+            "description": "Рис, нори, лосось, сливочный сыр, авокадо, кляр, масаго, манго соус. ",
+            "excise": null,
+            "id": "09671-8 шт.",
+            "images": [
+                {
+                    "hash": "591fa202eff3e057e18e1392357c245d898883a2",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/1bc682d1d76d45e6e4fce155fbfa52aa.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 241,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Лосось в темпуре с соусом манго 8 шт.",
+            "nutrients": null,
+            "price": 569,
+            "serviceCodesUz": null,
+            "sortOrder": 1,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "d8dda900-5dae-4501-ab6d-d8133b3f473f",
+            "description": "Рис, нори, огурец, кунжут.",
+            "excise": null,
+            "id": "09107",
+            "images": [
+                {
+                    "hash": "06dccb1d0fa196f97a112775adf584d0959f5648",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/f34cc791698dfb60d6afd49a72ca34d0.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 115,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Мини ролл с огурцом",
+            "nutrients": null,
+            "price": 189,
+            "serviceCodesUz": null,
+            "sortOrder": 0,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "d8dda900-5dae-4501-ab6d-d8133b3f473f",
+            "description": "Рис, нори, чука, ореховый соус.",
+            "excise": null,
+            "id": "09110",
+            "images": [
+                {
+                    "hash": "276d788fb281dbd0c86cf693724716f3cc08d271",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/f3d40bb8f8efede966afc5a8c00887aa.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 120,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Мини ролл с чукой",
+            "nutrients": null,
+            "price": 249,
+            "serviceCodesUz": null,
+            "sortOrder": 1,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "d8dda900-5dae-4501-ab6d-d8133b3f473f",
+            "description": "Рис, нори, креветка, спайси-соус, кунжут.",
+            "excise": null,
+            "id": "09105",
+            "images": [
+                {
+                    "hash": "ebb3f52f4344d2425f532ce3e0e69aa210ddbb53",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/1080048f0b69ae85913ab8a08beff538.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 120,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Мини ролл с креветкой",
+            "nutrients": null,
+            "price": 339,
+            "serviceCodesUz": null,
+            "sortOrder": 2,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "d8dda900-5dae-4501-ab6d-d8133b3f473f",
+            "description": "Рис, нори, лосось.",
+            "excise": null,
+            "id": "09106",
+            "images": [
+                {
+                    "hash": "1bd30a83baccca0e121f8327a10fb8021efd0aac",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/885b0e1378c769090b48242719f026cd.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 115,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Мини ролл с лососем",
+            "nutrients": null,
+            "price": 349,
+            "serviceCodesUz": null,
+            "sortOrder": 3,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "d8dda900-5dae-4501-ab6d-d8133b3f473f",
+            "description": "Рис, нори, угорь, унаги-соус, кунжут.",
+            "excise": null,
+            "id": "09109",
+            "images": [
+                {
+                    "hash": "7e6755b7e611b3ebc0cb01ca50c883f9ef830935",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/55203ec3a32ad9a71dcc7462f4ded1ee.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 110,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Мини ролл с угрем",
+            "nutrients": null,
+            "price": 349,
+            "serviceCodesUz": null,
+            "sortOrder": 4,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "dce6e77f-c7c8-46e6-af1b-b4a93acf0fae",
+            "description": "Рис, соус для поке, бобы Эдамаме, огурцы, чука, ореховый соус, соус сладкий чили, кунжут, томаты черри, креветка, ананас консервированный, авокадо, нори.",
+            "excise": null,
+            "id": "09079",
+            "images": [
+                {
+                    "hash": "726d5eba88147f220f57e2b6fdcb5911513ed2b0",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/8441f193715b505d6616b2461ff36e21.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 300,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Поке с креветкой",
+            "nutrients": null,
+            "price": 599,
+            "serviceCodesUz": null,
+            "sortOrder": 0,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "dce6e77f-c7c8-46e6-af1b-b4a93acf0fae",
+            "description": "Рис, соус для поке, бобы Эдамаме, огурцы, чука, ореховый соус, соус манго, кунжут, томаты черри, лосось, ананас консервированный, авокадо, нори.",
+            "excise": null,
+            "id": "09080",
+            "images": [
+                {
+                    "hash": "00915a5df0203fb24990c586fc48ad0fe2df9934",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/71f6c42d39a630984de2916740bfe963.PNG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 300,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Поке с лососем",
+            "nutrients": null,
+            "price": 719,
+            "serviceCodesUz": null,
+            "sortOrder": 1,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "bc03d971-acda-4799-ac0b-5e5f0e50b2e6",
+            "description": "",
+            "excise": null,
+            "id": "09468",
+            "images": [
+                {
+                    "hash": "f3ab1433dc370bc892339eb3a2f86b0a23b7b799",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/898002114127943258132d1c4bd7d984.JPEG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 30,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Чесночный",
+            "nutrients": null,
+            "price": 70,
+            "serviceCodesUz": null,
+            "sortOrder": 0,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "bc03d971-acda-4799-ac0b-5e5f0e50b2e6",
+            "description": "",
+            "excise": null,
+            "id": "09466",
+            "images": [
+                {
+                    "hash": "7fd8c7981f81b4f93baef3851e3b4ce59d55feb9",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/9304c03900cebf1c879e7210d45eb3b8.JPEG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 30,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Кетчуп",
+            "nutrients": null,
+            "price": 70,
+            "serviceCodesUz": null,
+            "sortOrder": 1,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "bc03d971-acda-4799-ac0b-5e5f0e50b2e6",
+            "description": "",
+            "excise": null,
+            "id": "09467",
+            "images": [
+                {
+                    "hash": "39b93d2465d834d8b35d0e6d0296693c5f801680",
+                    "url": "https://102922.selcdn.ru/ecomm/sushivei-co/73561/images/items/407a22f5ab7e29aa62f611c0674b8579.JPEG"
+                }
+            ],
+            "isCatchweight": false,
+            "measure": 30,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Сырный",
+            "nutrients": null,
+            "price": 70,
+            "serviceCodesUz": null,
+            "sortOrder": 2,
+            "vat": 0,
+            "weightQuantum": 0
+        },
+        {
+            "categoryId": "7b8daee6-9ac2-46dc-b2ea-7eddb220d426",
+            "description": "",
+            "excise": null,
+            "id": "09465",
+            "images": [],
+            "isCatchweight": false,
+            "measure": 0,
+            "measureUnit": "г",
+            "modifierGroups": [],
+            "name": "Пакет",
+            "nutrients": null,
+            "price": 5,
+            "serviceCodesUz": null,
+            "sortOrder": 0,
+            "vat": 0,
+            "weightQuantum": 0
+        }
+    ],
+    "lastChange": "2024-04-26T14:24:14.000+00:00"
+}
