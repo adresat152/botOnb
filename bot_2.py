@@ -184,7 +184,7 @@ def saveCreds(message):
                         titleRest = txt['title']
                         adressRest = txt['address']
                         bot.send_message(message.chat.id, idRest+'\n'+titleRest+'\n'+adressRest)
-                    bot.register_next_step_handler(message, menu(message));
+                    getMenuCreds(message)
 
                 @bot.callback_query_handler(func=lambda call: call.data == 'load_file')
                 def save_btn(call):
@@ -196,7 +196,7 @@ def saveCreds(message):
                     bot.edit_message_text(chat_id=chat_id, message_id=message_id, text='Отправляю файл...')
                     bot.send_document(chat_id, file_json);
                     bot.send_document(chat_id, file_txt);
-                    bot.register_next_step_handler(message, menu(message));
+                    getMenuCreds(message)
                 
                 global responseRest
                 responseRest = rep.json()
