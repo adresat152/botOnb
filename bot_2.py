@@ -261,24 +261,29 @@ def saveCreds(message):
                         bot.send_document(chat_id, file_txt);
                         getMenuCreds(message);
                     
-                    if len (responseMenu['items']) > 10:
-                        keyboard = telebot.types.InlineKeyboardMarkup()
-                        button_in_chat = telebot.types.InlineKeyboardButton(text="Выгрузить", callback_data='load_in_chat_menu')
-                        button_file = telebot.types.InlineKeyboardButton(text="Скачать файл", callback_data='load_file_menu')
-                        keyboard.add(button_in_chat, button_file)
-                        bot.send_message(message.chat.id, f'Список блюд привышает 10. Выгрузить все?', reply_markup=keyboard)
+                    if responseMenu['code'] == responseMenu['code']:
+                        bot.send_message(message.chat.id, f'В меню нет блюд. Ответ: ')
+                        bot.send_message(message.chat.id, text=str(responseMenu))
+                        getMenuCreds(message);
                     else:
-                        for txt in responseMenu['items']:
-                            NamePos = txt['name']
-                            DesPos = txt['description']
-                            PricePos = txt['price']
-                            MeaUnitPos = txt['measureUnit']
-                            if len(txt['images']) > 0:
-                                ImgPos = txt['images'][0]['url']
-                            else:
-                                ImgPos = txt['images']
-                            bot.send_message(message.chat.id, NamePos+'\n'+DesPos+'\n'+str(PricePos)+'\n'+MeaUnitPos+'\n'+str(ImgPos))
-                        getMenuCreds(message)
+                        if len (responseMenu['items']) > 10:
+                            keyboard = telebot.types.InlineKeyboardMarkup()
+                            button_in_chat = telebot.types.InlineKeyboardButton(text="Выгрузить", callback_data='load_in_chat_menu')
+                            button_file = telebot.types.InlineKeyboardButton(text="Скачать файл", callback_data='load_file_menu')
+                            keyboard.add(button_in_chat, button_file)
+                            bot.send_message(message.chat.id, f'Список блюд привышает 10. Выгрузить все?', reply_markup=keyboard)
+                        else:
+                            for txt in responseMenu['items']:
+                                NamePos = txt['name']
+                                DesPos = txt['description']
+                                PricePos = txt['price']
+                                MeaUnitPos = txt['measureUnit']
+                                if len(txt['images']) > 0:
+                                    ImgPos = txt['images'][0]['url']
+                                else:
+                                    ImgPos = txt['images']
+                                bot.send_message(message.chat.id, NamePos+'\n'+DesPos+'\n'+str(PricePos)+'\n'+MeaUnitPos+'\n'+str(ImgPos))
+                            getMenuCreds(message)
 
             message = call.message
             chat_id = message.chat.id
