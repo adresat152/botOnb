@@ -20,7 +20,7 @@ def url_validator(x):
 from telebot import types;
 bot = telebot.TeleBot('6647975314:AAFjVYqLhFLyIfuNZlRji_n4X2UU381g-r0');
 
-#Основные переменные
+#Основные переменные Ya.Api
 host = '';
 client_id = '';
 client_secret = '';
@@ -32,6 +32,10 @@ rep = ''; #Ответ response
 admin = [883820247, 1108841817, 5403424801, 884863244, 757210002]
 textCreds = '';
 headers = '';
+
+#Основные переменные Iiko Transport
+IThost = 'https://api-ru.iiko.services/api/1/access_token';
+ITapiLogin = '';
 
 def pusin(host, client_id, client_secret, restId, orderId):
     global textCreds
@@ -111,10 +115,13 @@ def menu(message):
         if(message.text == "Меню бота"):
             markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
             credsButton = types.KeyboardButton("Ввести креды 📥")
+            transportButton = types.KeyboardButton("Iiko Transport")
             back = types.KeyboardButton("Вернуться в главное меню")
-            markup.add(credsButton, back)
+            markup.add(credsButton, transportButton, back)
             bot.send_message(message.chat.id, text="Выбери что проверяем", reply_markup=markup)
             bot.register_next_step_handler(message, creds);
+        else:
+            bot.send_message(message.chat.id, text="Я не понял, что это за команда. Давай сначала /start")
     else:
         bot.send_message(message.chat.id, 'Извините, у вас нет доступа', reply_markup=types.ReplyKeyboardRemove())
 
@@ -128,6 +135,9 @@ def creds(message):
             markup.add(skip)
             bot.send_message(message.chat.id, text="Введи Host", reply_markup=markup)
             bot.register_next_step_handler(message, get_cliet_id);
+        elif (message.text == "Iiko Transport"):
+            bot.send_message(message.chat.id, text="Вы перешли в меню для Iiko Transport", reply_markup=types.ReplyKeyboardRemove())
+            bot.register_next_step_handler(message, IikoTransportCreds(message));
     else:
         bot.send_message(message.chat.id, 'Извините, у вас нет доступа', reply_markup=types.ReplyKeyboardRemove())
 
@@ -261,7 +271,7 @@ def saveCreds(message):
                         bot.send_document(chat_id, file_txt);
                         getMenuCreds(message);
                     
-                    if responseMenu['code'] == responseMenu['code']:
+                    if len(responseMenu) == 1:
                         bot.send_message(message.chat.id, f'В меню нет блюд. Ответ: ')
                         bot.send_message(message.chat.id, text=str(responseMenu))
                         getMenuCreds(message);
@@ -288,7 +298,6 @@ def saveCreds(message):
             message = call.message
             chat_id = message.chat.id
             message_id = message.message_id  
-            bot.edit_message_text(chat_id=chat_id, message_id=message_id, text='Здесь будет выгрузка меню')
             bot.edit_message_text(chat_id=chat_id, message_id=message_id, text='Получаю токен...')
             getToken(message)
             bot.edit_message_text(chat_id=chat_id, message_id=message_id, text='Токен получил, необходимо ID ресторана')
@@ -341,6 +350,30 @@ def saveCreds(message):
             bot.send_message(message.chat.id, f'Что смотрим по кредам?', reply_markup=keyboard)
         else:
             bot.send_message(message.chat.id, f'Что-то пошло не так... Начнем с начала /start')
+
+def IikoTransportCreds(message):
+    @bot.callback_query_handler(func=lambda call: call.data == 'IT_auth')
+    def save_btn(call):
+        def IT_auth_apiLogin(message):
+            global ITapiLogin
+            global IThost
+            ITapiLogin = message.text
+            url = IThost
+            data = {
+                'apiLogin': ITapiLogin
+            }
+            response = requests.post(url, data=data)
+            print (response)
+        bot.send_message(message.chat.id, f'Введите ApiLogin', reply_markup=types.ReplyKeyboardRemove())
+        bot.register_next_step_handler(message, IT_auth_apiLogin);
+    keyboard = telebot.types.InlineKeyboardMarkup()
+    button_auth = telebot.types.InlineKeyboardButton(text="Авторизация", callback_data='IT_auth')
+    button_menu = telebot.types.InlineKeyboardButton(text="Меню", callback_data='IT_menu')
+    button_nomenclature = telebot.types.InlineKeyboardButton(text="Стоп-лист", callback_data='IT_nomenclature')
+    button_types_pay = telebot.types.InlineKeyboardButton(text="Стоп-лист", callback_data='IT_types_pay')
+    button_type_order = telebot.types.InlineKeyboardButton(text="Тип заказа", callback_data='IT_type_order')
+    keyboard.add(button_auth, button_menu, button_nomenclature, button_types_pay, button_type_order)
+    bot.send_message(message.chat.id, f'Меню Iiko Transport', reply_markup=keyboard)
 
 
 bot.polling()
